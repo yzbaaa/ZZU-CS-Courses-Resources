@@ -5,7 +5,7 @@
 跳转：
 
 - [ZZU计智学习指南](https://yzbaaa.github.io/ZZU-CS-RESOURCES/)
-- [ZZU-CS-RESOURCES]([https://yzbaaa.github.io/ZZU-CS-RESOURCES/](https://github.com/yzbaaa/ZZU-CS-RESOURCES))
+- [ZZU-CS-RESOURCES](https://yzbaaa.github.io/ZZU-CS-RESOURCES/](https://github.com/yzbaaa/ZZU-CS-RESOURCES)
 
 # 提交注意
 
